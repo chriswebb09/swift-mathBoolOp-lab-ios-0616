@@ -19,10 +19,15 @@
 // write your code here
 
 
+10.0 + 20
+
+
 /*: Question 2
 ### 2. Add an Int to a Double
 */
 // write your code here
+
+20.0 + Int(12)
 
 
 /*: Question 3
